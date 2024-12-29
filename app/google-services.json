@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148301002248",
+    "project_id": "co-vision-83cf6",
+    "storage_bucket": "co-vision-83cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148301002248:android:369e0a0850922f15d4c3bd",
+        "android_client_info": {
+          "package_name": "com.example.co_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148301002248-rveo6ua0jvebprsjbt7omlpoptsk9un5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Insert Your API key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148301002248-rveo6ua0jvebprsjbt7omlpoptsk9un5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
